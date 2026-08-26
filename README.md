@@ -1,4 +1,3 @@
-## Technical Skills
 # Integration, Automation & Data Portfolio
 
 Hi, I'm Justina 👋
@@ -28,7 +27,8 @@ I am developing toward roles such as:
 - Junior Integration Developer
 - Business Process Automation Specialist
 - Technical Business Analyst
-
+- 
+## Technical Skills
 ### Integration & Automation
 - Workato
 - System Integration
